@@ -1,0 +1,17 @@
+bibentry(bibtype    = "Article",
+  title = "Visually guided preprocessing of bioanalytical laboratory data using an interactive R notebook (pguIMP)",
+  journal = "CPT Pharmacometrics Syst Pharmacol",
+  volume = "10",
+  number = "11",
+  pages = "1371-1381",
+  year = "2021",
+  issn = "2352-9148",
+  doi = "10.1002/psp4.12704",
+  url = "https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.12704",
+  author = "Sebastian Malkusch and Lisa Hahnefeld and Robert Gurke and Jörn Lötsch",
+  textVersion  = paste("Jorn Lotsch, Sebastian Malkusch, and Alfred Ultsch (2021).",
+                              "Visually guided preprocessing of bioanalytical laboratory data using an interactive R notebook (pguIMP).",
+                              "CPT Pharmacometrics Syst Pharmacol. 2021 Nov;10(11):1371-1381. doi: 10.1002/psp4.12704",
+                              "https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.12704")
+)
+

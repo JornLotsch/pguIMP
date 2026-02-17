@@ -1,0 +1,10 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^.*\.idea$
+.*\.svg$
+.*\.o$
+.*\.code-workspace$
+^.idea$
+^\\.idea$
+
+
