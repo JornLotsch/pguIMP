@@ -210,7 +210,7 @@ If you use pguIMP in your research, please cite the following publication:
 - Lisa Hahnefeld
 - Robert Gurke
 
-For questions or issues, please contact the maintainer: **j.lotsch@em.uni-frankfurt.de**
+For questions or issues, please contact the maintainer
 
 ## License
 
