@@ -10,7 +10,7 @@
 
 The package implements a fixed sequence of preprocessing steps within an intuitive Shiny-based graphical user interface, ensuring reproducible and traceable data preprocessing workflows.
 
-## Purpose of pguIMP?
+## Purpose of pguIMP
 
 Data preprocessing is critical for the success of machine learning and statistical analyses of biomedical data. The evaluation of bioanalytical data by classical statistics, machine learning approaches, or pharmacokinetic-pharmacodynamic modeling depends heavily on data quality. However, most available preprocessing tools either:
 
